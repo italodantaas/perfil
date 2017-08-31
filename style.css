@@ -120,8 +120,8 @@ p{
 #dançar{
 	box-sizing:padding-box;
 	background-image:url(imagens/interesse-dança.png);
-	width:270px;
-	height:269px;
+	width:220px;
+	height:219px;
 	float:left;
 	background-size:cover;
 	border-top:10px;
@@ -131,8 +131,8 @@ p{
 #viajar{
 	box-sizing:padding-box;
 	background-image:url(imagens/interesse-viajar.png);
-	width:270px;
-	height:269px;
+	width:220px;
+	height:219px;
 	float:left;
 	background-size:cover;
 	border-top:10px;
@@ -142,8 +142,8 @@ p{
 #música{
 	box-sizing:padding-box;
 	background-image:url(imagens/interesse-musica.png);
-	width:270px;
-	height:269px;
+	width:220px;
+	height:219px;
 	float:left;
 	background-size:cover;
 	border-top:10px;
@@ -154,8 +154,8 @@ p{
 #games{
 	box-sizing:padding-box;
 	background-image:url(imagens/interesse-games.png);
-	width:270px;
-	height:269px;
+	width:220px;
+	height:219px;
 	float:left;
 	background-size:cover;
 	border-top:10px;
@@ -167,8 +167,8 @@ p{
 #praia{
 	box-sizing:padding-box;
 	background-image:url(imagens/interesse-praia.png);
-	width:269px;
-	height:269px;
+	width:219px;
+	height:219px;
 	float:left;
 	background-size:cover;
 	border-top:10px;
